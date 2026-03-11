@@ -12,6 +12,8 @@ https://talep.citroen.com.tr/fiyat-listesi/arac/ami
 https://www.fiat.com.tr/modeller/topolino
 https://www.fiat.com.tr/fiyat-listesi
 
+https://www.karea.com/
+
 https://www.kubamotor.com.tr/model/city
 https://www.kubamotor.com.tr/model/m5
 https://www.boramotor.com/elektrikli-otomobil/

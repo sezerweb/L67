@@ -39,6 +39,7 @@ https://www.relive.com.tr/ezi.php
 https://www.relive.com.tr/pricelist.php
 
 https://www.rksmotor.com.tr/home.html  ???
+https://krsmotor.com.tr/model/a1/
 
 https://www.volta.com.tr/kategori/elektrikli-araba
 
